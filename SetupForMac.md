@@ -15,6 +15,8 @@ Use all of the standard settings.
 
 Git Hub: Sign up for a free account here: https://github.com/
 
+Please use a full- or professional-sounding name when signing up, as employers will see these pages.
+
 Visual Studio IDE:  Follow instructions here: https://docs.microsoft.com/en-us/visualstudio/mac/installation?view=vsmac-2019
 
 Use all of the standard settings.
