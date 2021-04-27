@@ -2,6 +2,7 @@ Python Pre-Work Mac
 Please Allow 2-3 Hours For These Tasks
 
 Python: Download the latest version here: https://www.python.org/downloads/
+(On the splash screen, check to Set Path)
 
 Select the Macintosh version of the code
 
@@ -17,7 +18,7 @@ Git Hub: Sign up for a free account here: https://github.com/
 
 Please use a full- or professional-sounding name when signing up, as employers will see these pages.
 
-Visual Studio IDE:  Follow instructions here: https://docs.microsoft.com/en-us/visualstudio/mac/installation?view=vsmac-2019
+Visual Studio IDE:  Follow instructions here: https://code.visualstudio.com/Download
 
 Use all of the standard settings.
 
