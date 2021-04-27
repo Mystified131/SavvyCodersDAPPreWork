@@ -2,7 +2,8 @@
 Python Pre-Work PC
 Please Allow 2-3 Hours For These Tasks
 
-Python: Download the latest version here: https://www.python.org/downloads/
+Python: Download the latest version here: https://www.python.org/downloads/ 
+(On Splash Installation Screen, please check "Set Path" option)
 
 Use all of the standard settings.
 
@@ -14,7 +15,7 @@ Git Hub: Sign up for a free account here: https://github.com/
 
 Please use a full- or professional-sounding name when signing up, as employers will see these pages.
 
-Visual Studio IDE:  Follow instructions here: https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
+Visual Studio IDE:  Follow instructions here: https://code.visualstudio.com/Download
 
 Use all of the standard settings.
 
