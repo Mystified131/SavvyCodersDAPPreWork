@@ -2,6 +2,8 @@
 Python Pre-Work PC
 Please Allow 2-3 Hours For These Tasks
 
+When ANY installation asks to SET the PATH, please go ahead and do so. Thank you.
+
 Python: Download the latest version here: https://www.python.org/downloads/ 
 (On Splash Installation Screen, please check "Set Path" option)
 
