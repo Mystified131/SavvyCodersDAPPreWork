@@ -6,7 +6,7 @@ Python: Download the latest version here: https://www.python.org/downloads/
 
 Select the Macintosh version of the code
 
-Use all of the standard settings.
+Use all of the standard settings, and please DO check the "Set the Path"option.
 
 Git: Get and install the newest version here: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
